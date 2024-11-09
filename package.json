@@ -1,5 +1,5 @@
 {
-  "name": "week-18",
+  "name": "paytm",
   "private": true,
   "scripts": {
     "build": "turbo build",
